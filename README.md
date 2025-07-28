@@ -30,6 +30,7 @@ Passionate about building clean, functional, and responsive web applications.
 ## Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/jaishree-vishwakarma/)
+[Instagram](https://www.instagram.com/jaish.2002/)
 
 ---
 
