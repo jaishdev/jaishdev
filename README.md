@@ -20,7 +20,8 @@ Passionate about building clean, functional, and responsive web applications.
 - HTML5  
 - CSS3  
 - JavaScript (ES6+)  
-- React  
+- React
+- Typescript 
 - Next.js (in progress)  
 - Express.js  
 - MongoDB
