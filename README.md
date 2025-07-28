@@ -1,6 +1,6 @@
-# Hi, I'm Jaish
+# Hi, I'm Jaishree Vishwakarma
 
-**Frontend Developer** and **Aspiring Full-Stack Engineer**  
+**Aspiring Full-Stack Engineer**  
 Passionate about building clean, functional, and responsive web applications.
 
 ---
