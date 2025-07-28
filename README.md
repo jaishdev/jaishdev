@@ -1,4 +1,4 @@
-# Hi, I'm Jaishree Vishwakarma
+# Hi, I'm Jaishree 
 
 **Aspiring Full-Stack Engineer**  
 Passionate about building clean, functional, and responsive web applications.
