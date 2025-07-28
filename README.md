@@ -36,7 +36,10 @@ Passionate about building clean, functional, and responsive web applications.
 
 ## In Progress
 
-I’m currently working on my first public projects. Stay tuned — they’ll be up here soon.
+I’ve previously deployed a learning-focused project to get hands-on experience with development and deployment. Here is the link [cozynest](https://cozynest-jd6g.onrender.com/listings)
+Right now, I’m building a more complete, production-style web application — with a clean UI, solid backend, and real-world features. Built with React, Node.js, Express, and MongoDB  
+Includes authentication, dynamic routing, and a fully responsive frontend UI. 
+Excited to share it here soon.
 
 ---
 
